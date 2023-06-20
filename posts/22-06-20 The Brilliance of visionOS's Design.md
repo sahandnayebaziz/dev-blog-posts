@@ -2,6 +2,6 @@
 title: The Brilliance of visionOS's Design
 ---
 
-First test posts
+This is my first test post and commit!
 
-## hello
+## visionOS is brilliant!
