@@ -7,4 +7,4 @@ This is my first test post and commit!
 
 ## visionOS is brilliant!
 
-edit!
+This post is coming up!
