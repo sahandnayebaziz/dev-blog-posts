@@ -1,5 +1,5 @@
 ---
-title: "New  of DetailsPro Coming Soon"
+title: "New Version of DetailsPro Coming Soon"
 slug: new-version-of-detailspro-coming-soon
 date: 2023-08-16
 category: detailspro
