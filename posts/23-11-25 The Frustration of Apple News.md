@@ -5,27 +5,29 @@ date: 2023-11-25
 category: design
 ---
 
-Apple News+ magazines on a 12.9-inch M2 iPad Pro should look and feel amazing, but sadly that’s not where we’re at today.
+Apple News+ magazines on a 12.9-inch iPad Pro should look and feel amazing, but sadly that’s not where we’re at today. In this post I’ll show what is frustrating about the experience and how things could be improved. 
 
 ## A Frustrating Experience
 
-Here's a current A-list magazine and my iPad side-by-side. We can see they're basically the same size:
+Here's a current A-list magazine and my iPad side-by-side. We can see they're similar enough in size:
 
-![Vogue December 2023 on the left, my iPad Pro 12.9-inch on the right.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-off-2.jpg)
+![Vogue December 2023 on the left, my 12.9-inch iPad Pro on the right.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-off-2.jpg)
 
-Now here’s what it looks like when you open this issue of Vogue on this iPad:
+Now here’s what it looks like when you open this magazine on the iPad:
 
-![Scrolling required.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-on.jpg)
+![The cover is cut off on the iPad.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-on.jpg)
 
-Right off the bat, the cover is cut off and goes right past the bottom of the iPad. You actually need to scroll just to see the whole cover.
+The frustration begins and the reading experience is interrupted as soon as you notice you’re not able to see the whole cover *without scrolling.*
 
-![A close-up of the difference.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/bottom-cut-off.jpg)
+![Not only is the cover photo not shown, text lines are interrupted.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/bottom-cut-off.jpg)
 
-Well at least the cover image is sharp and Retina, right? Sadly, no! The cover is noticeably blurry and pixelated. We don't even have to squint to see the bad quality. We might think we're waiting for a progressive JPEG to load, but no, this is actually the best we're going to get.
+The frustration continues a few seconds after starting to read the cover: it’s not in sharp, Retina-resolution, but blurry and noticeably pixelated. You’d be forgiven for thinking we're waiting for a progressive JPEG to load, but this is it.
 
-![A screenshot from my iPad at Actual Size in Preview. Go ahead and check out the image URL to see for yourself.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/Screenshot%202023-11-25%20at%203.05.07%E2%80%AFPM.png)
+![A screenshot from my iPad at Actual Size in Preview. Go ahead and check out the image up close to see for yourself.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/Screenshot%202023-11-25%20at%203.05.07%E2%80%AFPM.png)
 
-We wanted to take in and enjoy the beautiful cover, but we can't. We start to think about all the effort that's gone into producing this cover... the magazine commissioning a great photographer, tasking their graphic design team with creating an elegant layout, and finally overworking their copy editors to craft the perfect phrases all to create this one singular cover. And after all that we can't even see it in crisp quality. We know the source file is a *huge* Adobe InDesign (Photoshop?) file that has more than enough fidelity for us to get a retina end result, but something is getting lost along the way.
+This is strange to me and immediately makes this viewing experience less fun. How could this be? What part of the pipeline could be limiting the magazine covers from looking sharp? 
+
+You see this with all the other big magazines on the 12.9-inch iPad. Here’s a screenshot of Wired, The Atlantic, WSJ, etc.
 
 Okay well let's move on from the cover. Maybe it's easy to "flip through" the articles to find something good to read so we can finally sit back on the couch, iPad in hand.
 
