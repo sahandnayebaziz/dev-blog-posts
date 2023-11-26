@@ -5,38 +5,23 @@ date: 2023-11-25
 category: design
 ---
 
-Reading magazines on my 12.9-inch iPad Pro should be an excellent experience but for many reasons it’s not. I’m going to share with you why I think it’s frustrating and how I think it could be so much better.
+Apple News+ magazines on a 12.9-inch M2 iPad Pro should look and feel amazing, but sadly that’s not where we’re at today.
 
-Specifically, I’m reading magazines in Apple News+, magazines from top publishers like Condé Nast (hello to my former employer!) on an M2 iPad Pro (hello to my other former employer!) which is the latest and most expensive iPad available at time of writing. Why does it matter which iPad it is? I’d say if you’re paying for the iPad with the biggest screen, the best display quality, and the fastest processing, it’s fair to want the best of the you-know-it-when-you-see-it Apple experience.
+## A Frustrating Experience
 
-But do we see it here?
-
-## Calibrating Expectations
-
-Alright, many have waxed poetic about the difference between physical books and e-books—I’m not here to address this today. For our purposes, we are going to assume that reading a magazine on an iPad is a fine and well thing to desire to do. We are going to compare what you get between the two modes of reading, but we are not going to question the validity of either.
-
-In 2023, magazines on the iPad should...
-
-- Look great
-- Be easy to use
-
-*That's it!* Let's see how much of this we accomplish. 
-
-## Reality Sinks In
-
-Here's the magazine and my iPad side-by-side. We can see they're basically the same size:
+Here's a current A-list magazine and my iPad side-by-side. We can see they're basically the same size:
 
 ![Vogue December 2023 on the left, my iPad Pro 12.9-inch on the right.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-off-2.jpg)
 
-So we should be good to go, then right?  Let's open this magazine up on the iPad...
+Now here’s what it looks like when you open this issue of Vogue on this iPad:
 
 ![Scrolling required.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-on.jpg)
 
-Uh-oh, we can't see the whole cover! It's cut off and we actually need to scroll down to see the whole thing.
+Right off the bat, the cover is cut off and goes right past the bottom of the iPad. You actually need to scroll just to see the whole cover.
 
 ![A close-up of the difference.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/bottom-cut-off.jpg)
 
-Well at least the cover image is sharp and retina, right? Sadly, no! The cover is noticeably blurry and pixelated. We don't even have to squint to see the bad quality. We might think we're waiting for a progressive JPEG to load, but no, this is actually the best we're going to get.
+Well at least the cover image is sharp and Retina, right? Sadly, no! The cover is noticeably blurry and pixelated. We don't even have to squint to see the bad quality. We might think we're waiting for a progressive JPEG to load, but no, this is actually the best we're going to get.
 
 ![A screenshot from my iPad at Actual Size in Preview. Go ahead and check out the image URL to see for yourself.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/Screenshot%202023-11-25%20at%203.05.07%E2%80%AFPM.png)
 
