@@ -1,5 +1,5 @@
 ---
-title: "The Frustration of Using Apple News+"
+title: "Frustration Using Apple News+ on iPad Pro"
 slug: the-frustration-of-using-apple-news-
 date: 2023-11-25
 category: design
@@ -56,7 +56,7 @@ It's all just text. That's surprising. We can't see any pictures previewing the 
 
 We have to tap into Contents and then into each piece, over and over, or swipe through with no way to quickly scan. This is just worse than a real issue, where we can flip through with our fingers, dog-ear pages, and zoom to a particular place in the issue.
 
-<video controls>
+<video controls autoplay muted loop>
 <source src="https://stream.mux.com/01GKbpfMacXjlfruCIKYdLr02BnEqBp7joP5NgP1kEtAI.m3u8" type="video/mp4" />
 </video>
 
