@@ -12,7 +12,7 @@ Apple News+ magazines on a 12.9-inch iPad Pro should look and feel amazing, but 
 
 Here's a current A-list magazine and my iPad side-by-side. We can see they're similar enough in size:
 
-![*Vogue* December 2023 on the left, my 12.9-inch iPad Pro on the right.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-off-2.jpg)
+![Vogue December 2023 on the left, my 12.9-inch iPad Pro on the right.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-off-2.jpg)
 
 Now here’s what it looks like when you open this magazine on the iPad:
 
