@@ -65,7 +65,7 @@ Here's a quick mockup of how it could look simply to add thumbnails to the exist
 
 I love Apple, I love magazines, I love the HI design teams at Apple... I love all of it. That's why I'm writing this post. All I want is for these things to be improved. 
 
-I have the utmost respect and admiration for the people who worked on this to get it this far. I know it must be difficult to be innovating in the magazine industry, where there have been nothing but headwinds for who knows how long. It's amazing to have this breadth of choice, rolled into Apple One, at my fingertips.
+I admire the people who worked on this to get it this far. I know it must be difficult to be innovating in the magazine industry, where there have been nothing but headwinds for who knows how long. It's amazing to have this breadth of choice, rolled into Apple One, at my fingertips.
 
 But, that doesn't mean that what this app offers today isn't frustrating. I'm someone who wants to use Apple News+, who wants to tell my friends about it, share stories, and keep paying for it for the foreseeable future. And yet, I can't because many small frustrations add up to an experience that I don't look forward to repeating.
 
