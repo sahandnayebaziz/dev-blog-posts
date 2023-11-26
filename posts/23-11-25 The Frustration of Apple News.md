@@ -8,7 +8,7 @@ category: design
 
 Apple News+ magazines on a 12.9-inch iPad Pro should look and feel amazing, but sadly that’s not where we’re at today. In this post I’ll show what is frustrating about the experience and how things could be improved. 
 
-## MAGAZINE COVERS
+## Magazine Covers
 
 Here's a current A-list magazine and my iPad side-by-side. We can see they're similar enough in size:
 
@@ -32,14 +32,14 @@ This is strange to me. How could this be? What part of the pipeline could be lim
 
 
 
-### THE FIX
+### The Fix
 
 The covers should be sharp, Retina-resolution images. They would be a lot more fun to view too if they were "fit" instead of "filled" on the screen. Here's a quick mockup of how that could look: 
 
 ![It would be great to be able to see the whole cover without scrolling, no matter how the iPad and magazine ratios differ.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/make-the-cover-fit.jpg)
 
 
-## TABLES OF CONTENTS
+## Tables of Contents
 
 Here's the table of contents from that same issue of *Vogue*:
 
