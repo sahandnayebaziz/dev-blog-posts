@@ -1,5 +1,5 @@
 ---
-title: "Frustration Using Apple News+ on iPad Pro"
+title: "News+ Woes"
 slug: the-frustration-of-using-apple-news-
 date: 2023-11-25
 category: design
