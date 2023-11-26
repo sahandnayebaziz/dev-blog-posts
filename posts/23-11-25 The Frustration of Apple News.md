@@ -20,7 +20,7 @@ Now here’s what it looks like when you open this magazine on the iPad:
 
 The frustration begins and the reading experience is interrupted as soon as you notice you’re not able to see the whole cover *without scrolling.*
 
-![Not only is the cover photo not shown, text lines are interrupted.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/bottom-cut-off.jpg)
+![Not only is the cover photo not shown, text lines are interrupted.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/bottom-cut-off-solo.jpg)
 
 The frustration continues a few seconds after starting to read the cover: it’s not in sharp, Retina-resolution, but blurry and noticeably pixelated. You’d be forgiven for thinking we're waiting for a progressive JPEG to load, but this is it.
 
