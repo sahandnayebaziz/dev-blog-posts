@@ -7,7 +7,7 @@ category: design
 
 Apple News+ magazines on a 12.9-inch iPad Pro should look and feel amazing, but sadly that’s not where we’re at today. In this post I’ll show what is frustrating about the experience and how things could be improved. 
 
-## A Frustrating Experience
+## MAGAZINE COVERS
 
 Here's a current A-list magazine and my iPad side-by-side. We can see they're similar enough in size:
 
@@ -29,6 +29,15 @@ This is strange to me and immediately makes this viewing experience less fun. Ho
 
 You see this with all the other big magazines on the 12.9-inch iPad. Here’s a screenshot of Wired, The Atlantic, WSJ, etc.
 
+### THE FIX
+
+The covers should be sharp, Retina-resolution images. They should be "fit" instead of "filled" on the screen. Here's a quick mockup of how that could look: 
+
+![It would be great to be able to see the whole cover without scrolling, no matter how the iPad and magazine ratios differ.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/make-the-cover-fit.jpg)
+
+
+## TABLES OF CONTENTS
+
 Okay well let's move on from the cover. Maybe it's easy to "flip through" the articles to find something good to read so we can finally sit back on the couch, iPad in hand.
 
 Here's what the table of contents looks like on the magazine:
@@ -43,10 +52,6 @@ It's all just text. That's surprising. We can't see any pictures previewing the 
 
 We have to tap into Contents and then into each piece, over and over, or swipe through with no way to quickly scan. This is just worse than a real issue, where we can flip through with our fingers, dog-ear pages, and zoom to a particular place in the issue.
 
-<video controls autoplay muted loop>
-<source src="https://stream.mux.com/01GKbpfMacXjlfruCIKYdLr02BnEqBp7joP5NgP1kEtAI.m3u8" type="video/mp4" />
-</video>
-
 And right about now is when I close the News app, put down my iPad, and remember why I don't read magazines on my iPad.
 
 ## It Could Be So Much Better
@@ -56,7 +61,6 @@ And right about now is when I close the News app, put down my iPad, and remember
 
 First, the easiest and lowest-hanging fruit: Make the cover high resolution and fit it to my iPad screen!
 
-![It would be great to be able to see the whole cover without scrolling, no matter how the iPad and magazine ratios differ.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/make-the-cover-fit.jpg)
 
 It should be retina and look great on a 12.9-inch iPad Pro, and it should just be fit to the screen so I can see the whole cover at once, like a normal magazine cover. (And if it can't look great on an iPad Pro 12.9, what does that say about this iPad?)
 
