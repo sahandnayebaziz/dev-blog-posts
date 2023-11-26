@@ -12,7 +12,7 @@ Apple News+ magazines on a 12.9-inch iPad Pro should look and feel amazing, but 
 
 Here's a current A-list magazine and my iPad side-by-side. We can see they're similar enough in size:
 
-![Vogue December 2023 on the left, my 12.9-inch iPad Pro on the right.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-off-2.jpg)
+![*Vogue* December 2023 on the left, my 12.9-inch iPad Pro on the right.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-off-2.jpg)
 
 Now here’s what it looks like when you open this magazine on the iPad:
 
@@ -26,7 +26,7 @@ The frustration continues a few seconds after starting to read the cover: it’s
 
 ![A screenshot from my iPad at Actual Size in Preview. Go ahead and check out the image up close to see for yourself.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/Screenshot%202023-11-25%20at%203.05.07%E2%80%AFPM.png)
 
-You see this with all sorts of other top magazines on the 12.9-inch iPad. Here are screenshots of blurry covers from [Wired](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/magazine-wired.png), [The Atlantic](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/magazine-atlantic.png), [Sports Illustrated](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/magazine-sports-illustrated.png), and [The New Yorker](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/magazine-new-yorker.png).
+You see this with all sorts of other top magazines on the 12.9-inch iPad. Here are screenshots of blurry covers from *[Wired](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/magazine-wired.png)*, *[The Atlantic](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/magazine-atlantic.png)*, *[Sports Illustrated](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/magazine-sports-illustrated.png)*, and *[The New Yorker](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/magazine-new-yorker.png)*.
 
 This is strange to me. How could this be? What part of the pipeline could be limiting the magazine covers from looking sharp? 
 
@@ -41,7 +41,7 @@ The covers should be sharp, Retina-resolution images. They would be a lot more f
 
 ## TABLES OF CONTENTS
 
-Here's the table of contents from that same issue of Vogue:
+Here's the table of contents from that same issue of *Vogue*:
 
 ![It's not that creative, but we do get a big photo from one of the big features and teaser summaries for the smaller stories.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/magazine-TOC.jpg)
 
