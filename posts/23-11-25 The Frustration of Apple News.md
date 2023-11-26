@@ -1,5 +1,5 @@
 ---
-title: "News+ Woes"
+title: "Frustration Using Apple News+"
 slug: the-frustration-of-using-apple-news-
 date: 2023-11-25
 category: design
