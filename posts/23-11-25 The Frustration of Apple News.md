@@ -36,7 +36,7 @@ This is strange to me. How could this be? What part of the pipeline could be lim
 
 The covers should be sharp, Retina-resolution images. They would be a lot more fun to view too if they were "fit" instead of "filled" on the screen. Here's a quick mockup of how that could look: 
 
-![It would be great to be able to see the whole cover without scrolling, no matter how the iPad and magazine ratios differ.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/make-the-cover-fit.jpg)
+![It would be great to be able to see the whole cover without scrolling, no matter how the iPad and magazine ratios differ.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/magazine-cover-fix.jpg)
 
 
 ## Tables of Contents
@@ -59,7 +59,7 @@ The table of contents should be visually rich and hint at the photographs within
 
 Here's a quick mockup of how it could look simply to add thumbnails to the existing design with no other changes: 
 
-![Simple thumbnails of lead images would go a long way.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/make-the-toc-good.jpg)
+![Simple thumbnails of lead images would go a long way.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/magazine-toc-fix.jpg)
 
 ## Thanks for Reading
 
