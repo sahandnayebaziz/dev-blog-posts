@@ -1,7 +1,7 @@
 ---
 title: "Frustration Using Apple News+"
 slug: the-frustration-of-using-apple-news-
-image: http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-on.jpg
+image: https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-on.jpg
 date: 2023-11-25
 category: design
 ---
@@ -12,15 +12,15 @@ Apple News+ magazines on a 12.9-inch iPad Pro should look and feel amazing, but 
 
 Here's a current A-list magazine and my iPad side-by-side. We can see they're similar enough in size:
 
-![Vogue December 2023 on the left, my 12.9-inch iPad Pro on the right.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-off-2.jpg)
+![Vogue December 2023 on the left, my 12.9-inch iPad Pro on the right.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-off-2.jpg)
 
 Now here’s what it looks like when you open this magazine on the iPad:
 
-![The cover is cut off on the iPad.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-on.jpg)
+![The cover is cut off on the iPad.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/side-by-side-on.jpg)
 
 The frustration begins and the reading experience is interrupted as soon as you notice you’re not able to see the whole cover *without scrolling.*
 
-![The cover photo is not fully shown and lines of text are unreadable.](http://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/bottom-cut-off-solo.jpg)
+![The cover photo is not fully shown and lines of text are unreadable.](https://assets.sahandnayebaziz.org/the-frustration-of-apple-news-plus/bottom-cut-off-solo.jpg)
 
 The frustration continues a few seconds after starting to read the cover: it’s not sharp and in Retina-resolution, but blurry and noticeably pixelated. You’d be forgiven for thinking we're waiting for a progressive JPEG to load, but this is it.
 
