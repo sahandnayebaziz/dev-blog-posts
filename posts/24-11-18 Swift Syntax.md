@@ -10,7 +10,7 @@ I recently updated [DetailsPro](https://detailspro.app) to include syntax highli
 
 Turns out... it's not! So I thought I'd write up a post about how I used [@swiftlang/swift-syntax](https://swiftpackageindex.com/swiftlang/swift-syntax) to natively parse and syntax-highlight the SwiftUI code that DetailsPro generates.
 
-![DetailsPro generates SwiftUI views like the one above.](https://assets.sahandnayebaziz.org/swift-syntax/end-goal.jpg)
+![Designers and developers use DetailsPro to create simple designs like the one seen here and often export or copy code straight into Xcode.](https://assets.sahandnayebaziz.org/swift-syntax/end-goal.jpg)
 
 Users create SwiftUI designs in DetailsPro by arranging and styling SwiftUI views to their liking. At any point, they can copy the SwiftUI code that represents their design. My end goal was to dispay this code in DetailsPro with the same light and dark color schemes as Xcode. Ideally, I wanted a solution that was native Swift, reliable, and worked instantly. It also has to work on iOS, macOS, and visionOS where the DetailsPro editor runs.
 
