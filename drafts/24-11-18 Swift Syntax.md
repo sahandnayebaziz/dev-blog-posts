@@ -10,8 +10,6 @@ A long-standing request I've heard for [DetailsPro](https://detailspro.app) is f
 
 As I explored options for how to get it done, I quickly discovered [@swift/swift-syntax](https://apple.com), an Apple-made library that can parse and abstract Swift code and, among other uses, be used for syntax highlighting. This was perfect, so I thought i'd write up a blog post about it.
 
-## END GOAL
-
 ![](https://assets.sahandnayebaziz.org/swift-syntax/end-goal.jpg)
 
 
