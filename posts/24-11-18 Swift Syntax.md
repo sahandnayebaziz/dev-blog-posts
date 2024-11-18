@@ -1,5 +1,5 @@
 ---
-title: "Syntax-Highlighting SwiftUI Code with Swift Syntax"
+title: "Syntax Highlighting SwiftUI Code with Swift Syntax"
 slug: syntax-highlighting-swiftui-with-swift-syntax
 image: https://assets.sahandnayebaziz.org/swift-syntax/running-on-mac.png
 date: 2024-11-18
@@ -8,7 +8,7 @@ category: swift
 
 I recently updated [DetailsPro](https://detailspro.app) to include syntax highlighting in the "Copy Code" section. This was a long-standing request I've had since I first released DetailsPro, which I kept putting off because I thought it was going to be too complex to implement.
 
-Turns out... it's not! So I thought I'd write up a post about how I used [@swift/swift-syntax](https://apple.com) to natively parse and syntax-highlight the SwiftUI code that DetailsPro generates.
+Turns out... it's not! So I thought I'd write up a post about how I used [@swiftlang/swift-syntax](https://swiftpackageindex.com/swiftlang/swift-syntax) to natively parse and syntax-highlight the SwiftUI code that DetailsPro generates.
 
 ![DetailsPro generates SwiftUI views like the one above.](https://assets.sahandnayebaziz.org/swift-syntax/end-goal.jpg)
 
@@ -39,7 +39,7 @@ To start, I needed a function that would take a string of code as input and outp
 For my use case, I created a SyntaxVisitor that would stop at the kinds of nodes that I cared about. In my case, it was only the types of nodes that appear in simple SwiftUI view declarations. Then, as my visitor encountered one of these nodes, I used the range to add an attribute to my AttributedString. 
 
 
-```
+```swift
 import SwiftParser
 import SwiftSyntax
 import SwiftUI
