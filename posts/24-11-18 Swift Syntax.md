@@ -168,6 +168,6 @@ Second, the SyntaxVisitor functions expect a return value like the ".skipChildre
 
 ## The End Results
 
-Today, syntax highlighting is running great in DetailsPro and I'm happy to have added a what is surely a reliable dependency that will enjoy continued support by the Swift community. 
-
 ![DetailsPro now shows live-updating, syntax-highlighted SwiftUI code when users select any part of their design.](https://assets.sahandnayebaziz.org/swift-syntax/running-on-mac.png)
+
+Today, syntax highlighting is running great in DetailsPro and I'm happy to have added a what is surely a reliable dependency that will enjoy continued support by the Swift community. 
