@@ -12,6 +12,8 @@ As I explored options for how to get it done, I quickly discovered [@swift/swift
 
 ## END GOAL
 
+![](https://assets.sahandnayebaziz.org/swift-syntax/end-goal.jpg)
+
 
 ## HOPES FOR A SOLUTION
 
