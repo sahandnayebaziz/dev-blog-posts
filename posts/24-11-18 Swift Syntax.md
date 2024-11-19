@@ -164,7 +164,7 @@ class MyVisitor: SyntaxVisitor {
 
 First, you'll encounter a concept in called "trivia" which is the name swift-syntax gives whitespaces, newlines, tabs, and comments. It took me a while to figure out that through trivia is how you can highlight something like a line comment. And, I needed to make sure I was formatting the invisible whitespace between nodes so that my code still displayed proper spacing. 
 
-Second, the SyntaxVisitor functions expect a return value like the ".skipChildren" and ".visitChildren" you see above. It took me a while to figure out exactly what was going on here, and basically what you're doing is telling the visitor whether or not it needs to go deeper after whatever you've identified. For example, if you've already identified an "import SwiftUI" statement and highlighted the appropriate parts, there's likely nothing more in there. With other higher-level nodes you'll visit, you'll likely want to keep visiting any nested child nodes that may exist.
+Second, the SyntaxVisitor functions expect a return value like the `.skipChildren` or `.visitChildren` values you see above. It took me a while to figure out exactly what was going on here, and basically what you're doing is telling the visitor whether or not it needs to go deeper after whatever you've identified. For example, if you've already identified an "import SwiftUI" statement and highlighted the appropriate parts, there's likely nothing more in there. With other higher-level nodes you'll visit, you'll likely want to keep visiting any nested child nodes that may exist.
 
 ## The End Results
 
