@@ -12,7 +12,7 @@ Turns out... it's not! So I thought I'd write up a post about how I used [@swift
 
 ![Designers and developers use DetailsPro to create simple designs like the one seen here and often export or copy code straight into Xcode.](https://assets.sahandnayebaziz.org/swift-syntax/end-goal.jpg)
 
-Users create SwiftUI designs in DetailsPro by arranging and styling SwiftUI views to their liking. At any point, they can copy the SwiftUI code that represents their design. My end goal was to dispay this code in DetailsPro with the same light and dark color schemes as Xcode. Ideally, I wanted a solution that was native Swift, reliable, and worked instantly. It also has to work on iOS, macOS, and visionOS where the DetailsPro editor runs.
+Users create SwiftUI designs in DetailsPro by arranging and styling SwiftUI views to their liking. At any point, they can copy the SwiftUI code that represents their design. My end goal was to display this code in DetailsPro with the same light and dark color schemes as Xcode. Ideally, I wanted a solution that was native Swift, reliable, and worked instantly. It also has to work on iOS, macOS, and visionOS where the DetailsPro editor runs.
 
 Enter: swift-syntax.
 
@@ -37,7 +37,6 @@ Swift-syntax lets you create your own "SyntaxVisitor" you can use to go through 
 To start, I needed a function that would take a string of code as input and output a string with attributes that I could directly display in my UI.
 
 For my use case, I created a SyntaxVisitor that would stop at the kinds of nodes that I cared about. In my case, it was only the types of nodes that appear in simple SwiftUI view declarations. Then, as my visitor encountered one of these nodes, I used the range to add an attribute to my AttributedString. 
-
 
 ```swift
 import SwiftParser
