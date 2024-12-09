@@ -31,7 +31,7 @@ Cheers to you Matías, for taking the awesome work of everyone at Figma and maki
 
 ---
 
-That was 2020. I'd be remiss if I didn't mention that I've had very similar feelings to then, this time while using Figma's Auto Layout features and their new UI3, which are awesome. 
+That was 2020. I'd be remiss if I didn't mention that I've had similar feelings in 2024, this time while using Figma's Auto Layout features and their new UI3, which are awesome. 
 
 I too often ponder when the natural end of the road will be for DetailsPro. In 2020, most were new to SwiftUI and hadn't tried it yet, so a tool that gave them an easy way to noodle around was welcomed. In 2024, I have many more requests for a design tool that can do everything Xcode can, which is not something that is possible to build, so I often feel I'm letting people down.
 
