@@ -41,6 +41,6 @@ Much in the way Matías bumped up against limitations, I too run into things tha
 
 It's not today that I feel the end is here, but it doesn't feel that far off. And much in the same way as Matías and Figurative, I know people will have had a blast using DetailsPro, but when do you know if the tool and the environment just don't jive anymore like they used to?
 
-And, just to make things even funnier: at the end of 2024, Sketch announced they are starting to work on their own version of Auto Layout.
+And, because time has a sense of humor: at the end of 2024, Sketch announced they are starting work on their own version of Auto Layout.
 
 
