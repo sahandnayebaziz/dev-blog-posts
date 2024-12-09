@@ -21,11 +21,11 @@ Figurative was an awesome iPad app that, in a way that I've never shared, played
 
 It was the summer of 2020, I had just left Apple in May, and my tip-top plan was to make *Sketch for iPad*. That was it—all I wanted to build was an iPad app that could read and write Sketch files. I actually started on that plan and had a TestFlight out under the name "Layer Outer" which was quite short-lived because I ultimately tried out Figurative.
 
-It wasn't until I tried out Figurative that I realized just how much Figma was eating Sketch's lunch and how this simple wrapper for Figma, even though it was flawed, was already miles ahead of what my *Sketch for iPad* could ever have been. Who needed Sketch for iPad when I already had a mostly-working *Figma for iPad \*and Magic Keyboard\*?*
+It wasn't until I tried out Figurative that I realized just how much Figma was eating Sketch's lunch. Right before my eyes was a simple, even flawed wrapper for Figma that was already miles ahead of what my *Sketch for iPad* could have ever been. Who needed Sketch for iPad when I already had a mostly-working *Figma for iPad (and Magic Keyboard)?*
 
-So I abandoned Layer Outer. I was already having too much fun in Figurative, and that wasn't even Figma's version of iPad Figma. 
+So I abandoned Layer Outer. I was already having too much fun in Figurative and it wasn't even Figma's version of iPad Figma. 
 
-After some time, I started to itch for wanting to put together SwiftUI views while I was away from my Mac, and that's when I started working on DetailsPro.
+After some time, I started to itch for wanting to put together SwiftUI views while I was away from my Mac and that's when I started working on DetailsPro.
 
 Cheers to you Matías, for taking the awesome work of everyone at Figma and making it even more fun to use.
 
