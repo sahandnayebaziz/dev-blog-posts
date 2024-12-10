@@ -17,7 +17,7 @@ I wasn’t contacted about this.
 >
 > If you're reading this, you probably already know what a truly marvelous app Delicious Library was. Figurative, however, was constantly breaking. I realized it was time to stop—even as a free app, it wasn’t fair to you.
 
-Figurative was an awesome iPad app that, in a way that I've never shared, played a big role in how I ended up making DetailsPro. 
+Figurative was an awesome iPad app that, in a way that I've never shared, played a big role in what led me to make DetailsPro. 
 
 It was the summer of 2020, I had just left Apple in May, and my tip-top plan was to make *Sketch for iPad*. That was it—all I wanted to build was an iPad app that could read and write Sketch files. I actually started on that plan and had a TestFlight out under the name "Layer Outer" which was quite short-lived because I ultimately tried out Figurative.
 
