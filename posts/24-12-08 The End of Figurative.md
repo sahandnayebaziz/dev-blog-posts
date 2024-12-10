@@ -19,9 +19,9 @@ I wasn’t contacted about this.
 
 Figurative was an awesome iPad app that, in a way that I've never shared, played a big role in what led me to make DetailsPro. 
 
-It was the summer of 2020, I had just left Apple in May, and my tip-top plan was to make *Sketch for iPad*. That was it—all I wanted to build was an iPad app that could read and write Sketch files. I actually started on that plan and had a TestFlight out under the name "Layer Outer" which was quite short-lived because I ultimately tried out Figurative.
+It was the summer of 2020, I had just left Apple in May, and my tip-top plan was to make *Sketch for iPad*. That was it—all I wanted to build was an iPad app that could read and write Sketch files. I actually started on that plan and had a TestFlight out under the name *Layer Outer*. Ultimately, the beta was short-lived. Why? Because soon after I would discover Figurative.
 
-It wasn't until I tried out Figurative that I realized just how much Figma was eating Sketch's lunch. Right before my eyes was a simple, even flawed wrapper for Figma that was already miles ahead of what my *Sketch for iPad* could have ever been. Who needed Sketch for iPad when I already had a mostly-working *Figma for iPad (and Magic Keyboard)?*
+That was when I realized just how much Figma was eating Sketch's lunch. Right before my eyes was a simple, even flawed wrapper for Figma that was already miles ahead of what my *Sketch for iPad* could have ever been. Who needed Sketch for iPad when I already had a mostly-working *Figma for iPad (and Magic Keyboard)?*
 
 So I abandoned Layer Outer. I was already having too much fun in Figurative and it wasn't even Figma's version of iPad Figma. 
 
@@ -31,7 +31,7 @@ Cheers to you Matías, for taking the awesome work of everyone at Figma and maki
 
 ---
 
-That was 2020. I'd be remiss if I didn't mention that I've had very similar feelings to then, this time while using Figma's Auto Layout features and their new UI3, which are awesome. 
+That was 2020. I'd be remiss if I didn't mention that I've had similar feelings in 2024, this time while using Figma's Auto Layout features and their new UI3, which are awesome. 
 
 I too often ponder when the natural end of the road will be for DetailsPro. In 2020, most were new to SwiftUI and hadn't tried it yet, so a tool that gave them an easy way to noodle around was welcomed. In 2024, I have many more requests for a design tool that can do everything Xcode can, which is not something that is possible to build, so I often feel I'm letting people down.
 
@@ -41,6 +41,6 @@ Much in the way Matías bumped up against limitations, I too run into things tha
 
 It's not today that I feel the end is here, but it doesn't feel that far off. And much in the same way as Matías and Figurative, I know people will have had a blast using DetailsPro, but when do you know if the tool and the environment just don't jive anymore like they used to?
 
-And, just to make things even funnier: at the end of 2024, Sketch announced they are starting to work on their own version of Auto Layout.
+And, because time has a sense of humor: at the end of 2024, Sketch announced they are starting work on their own version of Auto Layout.
 
 
