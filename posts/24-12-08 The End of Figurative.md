@@ -19,7 +19,7 @@ I wasn’t contacted about this.
 
 Figurative was an awesome iPad app that, in a way that I've never shared, played a big role in what led me to make DetailsPro. 
 
-It was the summer of 2020, I had just left Apple in May, and my tip-top plan was to make *Sketch for iPad*. That was it—all I wanted to build was an iPad app that could read and write Sketch files. I actually started on that plan and had a TestFlight out under the name *Layer Outer*. Ultimately, the beta was short-lived. Why? Because soon after I would discover Figurative.
+It was the summer of 2020, I had just left Apple in May, and my tip-top plan was to make *Sketch for iPad*. That was it—all I wanted to build was an iPad app that could read and write Sketch files. I loved Sketch and wanted to extend it to my favorite device. I actually started on that plan and had a TestFlight out under the name *Layer Outer*. Ultimately, the beta was short-lived. Why? Because soon after I would discover Figurative.
 
 That was when I realized just how much Figma was eating Sketch's lunch. Right before my eyes was a simple, even flawed wrapper for Figma that was already miles ahead of what my *Sketch for iPad* could have ever been. Who needed Sketch for iPad when I already had a mostly-working *Figma for iPad (and Magic Keyboard)?*
 
