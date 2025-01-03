@@ -24,6 +24,6 @@ If you simply try to switch the main screen to be turn-by-turn too, the dash scr
 <source src="https://stream.mux.com/X6rL6n02FKxUXF01uBNYAFHGrdlSm6TM1GmWi7J4SuL8g.m3u8" />
 </video>
 
-This is just the kind of small, simple, and frustrating issue that you think about every time you drive and even get to believing would be an easy fix: ff we can't have turn-by-turn directions in the dash, at least let us switch each screen to our own liking.
+This is just the kind of small, simple, and frustrating issue that you think about every time you drive and get to believing would be an easy fix: if we can't have turn-by-turn directions in the dash then at least let us switch each screen to our own liking.
 
 Now, this doesn't mean I don't think Apple Maps is great, because I do. As an app it has reached almost a platonic ideal of beautiful map styling, reliable directions in the US, and enjoyable features like Share ETA. Where the development of CarPlay's usability has stalled, I can only hope the cause is work being done on [CarPlay 2](https://www.theverge.com/2024/12/30/24332162/apple-next-gen-carplay-not-available-2024-porsche-aston-martin).
