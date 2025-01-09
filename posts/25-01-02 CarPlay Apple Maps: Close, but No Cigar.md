@@ -1,6 +1,6 @@
 ---
-title: "CarPlay Maps: Two Screens Isn't Too Nice"
-slug: carplay-apple-maps-two-screens-isnt-too-nice
+title: "CarPlay Maps: Two Screens Needs Improvements"
+slug: carplay-apple-maps-dual-screen-improvements
 image: https://assets.sahandnayebaziz.org/carplay-two-screens-too-hard/forced-with-worst-option.jpeg
 date: 2025-01-02
 category: carplay
