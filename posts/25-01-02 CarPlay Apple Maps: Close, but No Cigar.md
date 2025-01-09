@@ -1,5 +1,5 @@
 ---
-title: "CarPlay Maps: Two Screens Needs Improvements"
+title: "CarPlay Maps: Dual Screen Improvements Needed"
 slug: carplay-apple-maps-dual-screen-improvements
 image: https://assets.sahandnayebaziz.org/carplay-two-screens-too-hard/forced-with-worst-option.jpeg
 date: 2025-01-02
