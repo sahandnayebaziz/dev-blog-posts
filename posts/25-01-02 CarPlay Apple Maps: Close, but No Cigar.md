@@ -20,7 +20,7 @@ Second, because for some inexplicable reason, Apple Maps doesn't show the next t
 
 If you simply try to switch the main screen to be turn-by-turn too, the dash screen changes. And vice-versa. Here's a video showing this behavior in action:
 
-<video muted controls style="width: 100%">
+<video muted controls playsinline style="width: 100%">
 <source src="https://stream.mux.com/X6rL6n02FKxUXF01uBNYAFHGrdlSm6TM1GmWi7J4SuL8g.m3u8" />
 </video>
 
