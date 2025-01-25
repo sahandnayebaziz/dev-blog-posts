@@ -1,5 +1,5 @@
 ---
-title: "Tailwind CSS v4.0
+title: Tailwind CSS v4.0
 slug: tailwind-css-4
 date: 2025-01-25
 category: design
